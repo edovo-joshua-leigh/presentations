@@ -7,12 +7,12 @@ To work with DOT/Graphviz (used for relational graphs) install [graphviz](https:
 
 To install MDP from OSX:
 ------------------------
-1 [install brew](https://brew.sh/)
-2 `brew install mdp`
+1. [install brew](https://brew.sh/)
+2. `brew install mdp`
 
 To install graphviz from OSX:
 -----------------------------
-1 [install brew](https://brew.sh/)
-2 `brew install graphviz`
+1. [install brew](https://brew.sh/)
+2. `brew install graphviz`
 
 Most linux distros should have MDP and graphviz natively in their repos.
